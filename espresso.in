@@ -5,7 +5,7 @@
     nstep         = 100
     outdir        = "./"
     prefix        = "espresso"
-    pseudo_dir    = "C:\Users\reaz2\.burai\.pseudopot"
+    pseudo_dir    = "/root/simulations/.pseudopot"
     title         = "si_optimize(Optimize)"
     wf_collect    = .TRUE.
     wfcdir        = "./"
